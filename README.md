@@ -1,12 +1,36 @@
-- 👋 Hi, I’m @Vitu-Nc
-- 👀 I’m interested in C,C++,java and python 
-- 🌱 I’m currently learning PHP and web program 
-- 💞️ I’m looking to collaborate on any project 
-- 📫 How to reach me email 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi 👋, I'm Vitumbiko Banda
 
-<!---
-Vitu-Nc/Vitu-Nc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 About Me
+- Android Developer (Jetpack Compose)
+- Web Developer 
+- Working on EDU-SMART App
+- Interested in Web & Mobile Development
+
+## 🚀 Projects
+- 📱 EDU-SMART (E-learning Android App)
+- 📚 Library Module with Firebase
+- ChartBot
+- 
+
+## 🛠️ Tech Stack
+- Kotlin
+- Firebase
+- Jetpack Compose
+- Git & GitHub
+- javaScript
+- Programming with Java
+- C
+- C+
+- Python Programming
+- Html
+- Web programming
+- Ethical Hacking
+- SQL
+- Ai integration in Mobile Applications
+- CSS
+- Data Analysis
+- Visual Basic for Appplication(VBA) codding
+- API integration 
+
+## 📫 Contact Me
+- Email: johnbanda326@gmail.com
