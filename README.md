@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vitu-Nc
 - 👀 I’m interested in C,C++,java and python 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning PHP and web program 
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me email 
 - 😄 Pronouns: ...
