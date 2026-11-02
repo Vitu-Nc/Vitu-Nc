@@ -25,7 +25,7 @@ I build mobile apps, web projects and REST APIs, and I turn raw data into clear 
 |---|---|---|
 | 📱 **EDU-SMART** | Android e-learning app with quizzes, video tutorials, a PDF library, document uploads, bookmarks and an AI chatbot. Uses MVVM architecture. | Kotlin, Jetpack Compose, Firebase, Retrofit, REST APIs |
 | 📚 **Library Module** | Digital library feature for EDU-SMART, backed by Firebase and the Open Library API. | Kotlin, Firebase, REST APIs |
-| 🤖 **ChartBot** | Chatbot project. | _add a one-line description and stack_ |
+| 🤖 **ChartBot** | Chatbot project. | ChatBot API Integration in Mobile Applications ,WebApplication |
 | ✅ **[Todo API](https://github.com/Vitu-Nc/todo-api)** | Full CRUD REST API for task management with UUID-based records, JWT/OAuth2 authentication, protected endpoints and pagination. | Python, FastAPI, SQLModel, Pydantic, SQLite |
 | 💼 **Payroll Management System** | Business application with a completed FastAPI backend and database. The frontend is nearly complete. | Python, FastAPI, SQL |
 | 📈 **AdventureWorks SQL Analytics** | Data exploration and business KPI analysis: joins, window functions (RANK, LAG/LEAD), running totals, year-over-year and customer retention analysis. | Microsoft SQL Server, SSMS |
@@ -38,11 +38,11 @@ I build mobile apps, web projects and REST APIs, and I turn raw data into clear 
 
 **Mobile and Web:** Jetpack Compose · Firebase (Auth, Firestore, Storage) · FastAPI · REST API integration · AI integration in mobile apps
 
-**Data and Analytics:** SQL · Excel · Python/Pandas · Power BI · Tableau · Data Analysis
+**Data and Analytics:** SQL · Excel · Python/Pandas/R · Power BI · Tableau · Data Analysis 
 
-**Tools:** Git & GitHub · Microsoft SQL Server (SSMS) · SQLite
+**Tools:** Git & GitHub · Microsoft SQL Server (SSMS) · SQLite,MYSQL,
 
-**Other:** Ethical Hacking · Web Programming · Cybersecurity basics
+**Other:** Ethical Hacking · Web Programming · Cybersecurity
 
 ---
 
